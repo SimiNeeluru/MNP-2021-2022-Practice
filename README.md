@@ -16,4 +16,4 @@ Hi everyone! This is our practice repository for the 2021-2022 Software team. He
 2. My name is Joe Ghezzi and I'm a freshman with an undecided major. My unpopular food opinion is that cereal most certainly is a type of soup.
 3. My name is Lucas Chen, a prospective CS major through LSA. An unpopular food opinion I have is that ramen is overrated and is just really salty.
 4. My name is Isabella Wloch, I'm a CS major in LSA, and my unpopular food opinion is that salad is better without dressing. 
-
+5. My name is Ishita Deshmukh and I'm a freshman planning to major in CS or biomedical engineering. One of my unpopular food opinions is that maggi is better than ramen.
