@@ -19,4 +19,4 @@ Hi everyone! This is our practice repository for the 2021-2022 Software team. He
 5. My name is Ishita Deshmukh and I'm a freshman planning to major in CS or biomedical engineering. One of my unpopular food opinions is that maggi is better than ramen.
 6. My name is Anne-Marie Atanga! I'm a neuroscience and voice performance double major. My unpopular food opinion is that boneless sardines in soy bean oil go with most cooked vegetables.
 7. Hi! My name is Meha and I am a computer science major in the college of engineering. An unpopular food opinion I have is that candy is kinda overrated, and chocolate is better overall :)
-My name is Christine Wu and I am a CS major. My unpopular food opinion is that I like pineapple on pizza. 
+8. My name is Christine Wu and I am a CS major. My unpopular food opinion is that I like pineapple on pizza. 
